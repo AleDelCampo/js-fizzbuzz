@@ -12,6 +12,7 @@ for(let i = 1; i <= 100 ; i++) {
     newElement.style.color = "blue"; 
     newElement.style.backgroundColor = "fuchsia";
     newElement.style.fontSize = "24px";
+    newElement.style.border = "none";
 
     
     if(i % 3 == 0) {
